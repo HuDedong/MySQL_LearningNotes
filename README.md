@@ -1,0 +1,1 @@
+This is a Chinese MySQL Learning Notes repositories, learning materials are mainly from Shang Silicon Valley.
